@@ -17,3 +17,4 @@
 ## Hope you liked the Assignment, live link given below,
 
 ## Live link : https://66ba115cf205a49acc4fe3d2--tiny-bunny-89696c.netlify.app/
+### (Please be patience as it may take 1-2 mins for backend to load on live link)
