@@ -2,13 +2,17 @@
 
 ## Made this app as assignment of Capitall - olx_clone using MERN stack but only with all the features that were listed in the assignment!!
 
+## Clone the repository: git clone git@github.com:ShivamGuj/olx_clone_MERN_Assignment.git
+
 ## For frontend,
-### npm install
-### npm start
+### npm install (install dependencies)
+### npm start ( To run it )
+### Development server is 3000
 
 ## For backend,
-### npm install
-### npx nodemon
+### npm install (install dependencies)
+### npx nodemon ( To run it )
+### Development server is 5000
 
 ## Hope you liked the Assignment, live link given below,
 
