@@ -2,7 +2,7 @@
 
 ## Made this app as assignment of Capitall - olx_clone using MERN stack but only with all the features that were listed in the assignment!!
 
-## Clone the repository: git clone git@github.com:ShivamGuj/olx_clone_MERN_Assignment.git
+### Clone the repository: git clone git@github.com:ShivamGuj/olx_clone_MERN_Assignment.git
 
 ## For frontend,
 ### npm install (install dependencies)
